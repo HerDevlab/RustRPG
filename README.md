@@ -2,10 +2,10 @@
 Test Technique
 Terminal  rust rpg, beginner rust code.
 
-#BUILD
+# BUILD
 ``` $ cargo build ```
 
-#RUN
+# RUN
 ``` $ cargo run ```
 
 
